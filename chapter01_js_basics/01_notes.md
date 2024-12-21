@@ -1,4 +1,4 @@
-# Chapter 01 
+# Chapter 01 | Time 2:01 
 
 
 First we go to this (link)[https://supersimple.dev/js-basics/] which is a test playground. We inspected element and did some console logging to get a feel of what JS does, which is simply providing the website some instructions to complete a task. 
